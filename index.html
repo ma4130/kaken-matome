@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KAKEN まとめ</title>
+<meta name="description" content="KAKEN で作ったウェブサイトのまとめ">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>KAKEN まとめ</h1>
+    <p>これまでに作ったウェブサイトの一覧</p>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="サイトを検索…" aria-label="サイトを検索">
+      <div id="tag-filter" class="tag-filter" role="group" aria-label="タグで絞り込み"></div>
+    </div>
+    <p id="count" class="count"></p>
+    <div id="grid" class="grid" aria-live="polite"></div>
+    <p id="empty" class="empty" hidden>見つかりませんでした。</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>サイトの追加は <code>sites.json</code> に1行足すだけ</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

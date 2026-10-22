@@ -1,0 +1,20 @@
+[
+  {
+    "title": "キャッフィーの琵琶湖サバイバル",
+    "url": "https://ma4130.github.io/kaken-kyaffi/",
+    "desc": "カメラの前で体を左右に動かして、琵琶湖の網・釣り針・ペットボトルをよけ続けるゲーム。",
+    "tags": ["カメラ操作", "ゲーム"]
+  },
+  {
+    "title": "FUMI FUMI MOGURA",
+    "url": "https://ma4130.github.io/kaken-mogura/",
+    "desc": "床へ投影し、足で踏んで遊ぶモグラたたきゲーム。",
+    "tags": ["床投影", "ゲーム"]
+  },
+  {
+    "title": "床ピアノ",
+    "url": "https://ma4130.github.io/kaken-piano/",
+    "desc": "床に投影して足でふむ、ドレミファソラシドの8鍵ピアノ。",
+    "tags": ["床投影", "音楽"]
+  }
+]
