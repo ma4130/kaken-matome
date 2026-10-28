@@ -28,5 +28,29 @@
     "url": "https://ma4130.github.io/kaken-voice-syabondama/",
     "desc": "声を出すとしゃぼん玉が上がり、止めるとゆっくり下がる。雲や木をよけてゴールをめざすゲーム。",
     "tags": ["マイク操作", "ゲーム"]
+  },
+  {
+    "title": "声で育つ庭",
+    "url": "https://ma4130.github.io/voice-plant/",
+    "desc": "「スタート」の声で始まり、声の大きさで植物を育てる10秒ゲーム。",
+    "tags": ["マイク操作", "ゲーム"]
+  },
+  {
+    "title": "VOICE ART",
+    "url": "https://ma4130.github.io/kaken-voice-mozi/",
+    "desc": "声を立体文字に変えて漂わせる音声アート。声が大きいほど文字が大きくなる。",
+    "tags": ["マイク操作", "アート"]
+  },
+  {
+    "title": "FLOOR SOCCER",
+    "url": "https://ma4130.github.io/kaken-floor-soccer/",
+    "desc": "カメラで2人の足元を認識し、床に映したボールを蹴り合う60秒の対戦サッカー。",
+    "tags": ["床投影", "カメラ操作", "ゲーム"]
+  },
+  {
+    "title": "八幡工業 陸上部 CLUB ROOM",
+    "url": "https://ma4130.github.io/hachitech-tf/",
+    "desc": "陸上部の予定表、欠席連絡、連絡、大会管理、種目別メニュー。",
+    "tags": ["部活", "ツール"]
   }
 ]
