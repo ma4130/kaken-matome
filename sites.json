@@ -76,5 +76,17 @@
     "url": "https://ma4130.github.io/go/spots.html",
     "desc": "あるいてモンスター（仮）のスポットを、地図で追加・編集するページ。",
     "tags": ["位置情報", "ツール"]
+  },
+  {
+    "title": "著名人クイズ",
+    "url": "https://ma4130.github.io/historical-figure-quiz/",
+    "desc": "ログインなしでみんながリアルタイムに答えられる、偉人の早押し投票クイズ。早く正解するほど高得点。",
+    "tags": ["クイズ", "スマホ参加"]
+  },
+  {
+    "title": "Wallet — PayPay 明細ビューア",
+    "url": "https://ma4130.github.io/wallet/",
+    "desc": "PayPay の取引履歴CSVを、ブラウザだけで集計・グラフ化する家計簿ビューア。データは外に送られない。",
+    "tags": ["ツール", "お金"]
   }
 ]
